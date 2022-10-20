@@ -28,7 +28,7 @@ if (typeof process !== "undefined") {
 }
 
 let convert = function (flow) {
-  let wptScript = "";
+  let wptScript = "logData 0";
 
   let isKeyDown = false;
 
